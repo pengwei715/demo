@@ -4,23 +4,7 @@ pengwei@uchicago.edu | 650-741-8838
 A coder, A data enthusiast, A volunteer,
 A [MSCAPP](https://harris.uchicago.edu/academics/programs-degrees/degrees/ms-computational-analysis-and-public-policy-mscapp)  student of University of Chicago. 
 
-### Education
 
-```markdown
-
-# Aug. 2018- Present                                                                                    UNIVERSITY OF CHICAGO                                                                                                           Chicago, USA
-# Major: Computational Analysis & Public Policy
-Master in Science, Expected June 2020
-Related courses: Computer Science with Applications, Database for Public Policy, Machine Learning for Public Policy, Advanced Statistics, Microeconomics
-
-# Apr. 2017-Dec. 2017	                                                                                         DE ANZA COLLEGE                                                                                                                Cupertino, USA
-# Major: Computer Information Science; GPA: 4.0/4.0; **Dean’s List**
-Related courses: Discrete Math, Intermediate C++ Programming, Python Programming, Data Structures and Algorithms, Object-Oriented Analysis and Design
-
-# Sept. 2005-Jun. 2009	                                                             NATIONAL UNIVERSITY OF DEFENSE TECHNOLOGY                                                                                                               Changsha, China
-# Major: Electronic Engineering; GPA: 85.1/100; Rank: 10/120
-Bachelor of Engineering, June 2009
-Award: **Excellent Cadet** (top 5% based on comprehensive performance)
 ```
 ```markdown
 
