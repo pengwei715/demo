@@ -1,7 +1,5 @@
-
-You can use the [editor onGitHub](https://github.com/pengwei715/pengwei715.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A coder, A data enthusiast, A volunteer,
+A [MSCAPP](https://harris.uchicago.edu/academics/programs-degrees/degrees/ms-computational-analysis-and-public-policy-mscapp)  student of University of Chicago. 
 
 ### Markdown
 
